@@ -1,4 +1,4 @@
-# EX 41 C program to write a function to find the peek of stack using array.
+[# EX 41 C program to write a function to find the peek of stack using array.
 ## DATE:
 ## AIM:
 To write a function to find the peek of stack using array.
@@ -25,3 +25,4 @@ RegisterNumber:
 
 ## Result:
 Thus the program was executed and the output was verified successfully.
+](https://github.com/Shahith18/19CS302_Module_8.git)
